@@ -1,5 +1,5 @@
 # ☕ Java Basics → Intermediate
-
+                          
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java-Basics-orange?style=for-the-badge&logo=openjdk&logoColor=white">
