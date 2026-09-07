@@ -1,0 +1,3 @@
+Hello World
+This file was created automatically.
+Reading this file using FileInputStream.
