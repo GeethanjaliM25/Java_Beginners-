@@ -1,4 +1,4 @@
-# ☕ Java Basics → Intermediate  
+# ☕ Java Basics → Intermediate 
                            
 <p align="center">
 
